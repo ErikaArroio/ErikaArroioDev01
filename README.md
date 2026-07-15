@@ -1,3 +1,4 @@
+````markdown
 <div align="center">
 
 # Erika Arroio
@@ -5,10 +6,10 @@
 ### Desenvolvedora de Software • Inteligência Artificial • Desenvolvimento Web
 
 ```text
-୨୧ ─────────────── ✦ ─────────────── ୨୧
-      Transformando criatividade em tecnologia
-୨୧ ─────────────── ✦ ─────────────── ୨୧
-```
+୨୧ ─────────────────────────────────────────────── ୨୧
+        Transformando criatividade em tecnologia
+୨୧ ─────────────────────────────────────────────── ୨୧
+````
 
 *"Da moda para a tecnologia, criando soluções com criatividade e propósito."*
 
@@ -18,11 +19,9 @@
 
 <div align="center">
 
-## ⋆｡°✩ Sobre Mim ✩°｡⋆
+## ୨୧ Sobre Mim ୨୧
 
-</div>
-
-<p align="center">
+<p>
 
 Olá! Meu nome é <strong>Erika Arroio</strong>.
 
@@ -36,11 +35,15 @@ Cada projeto representa mais um passo nessa jornada de aprendizado e evolução.
 
 </p>
 
+</div>
+
 ---
 
 <div align="center">
 
-## ⋆｡°✩ Tecnologias ✩°｡⋆
+## ୨୧ Tecnologias ୨୧
+
+<br>
 
 <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode"/>
 
@@ -50,11 +53,9 @@ Cada projeto representa mais um passo nessa jornada de aprendizado e evolução.
 
 <div align="center">
 
-## ⋆｡°✩ Projetos em Desenvolvimento ✩°｡⋆
+## ୨୧ Projetos em Desenvolvimento ୨୧
 
 </div>
-
-<div align="center">
 
 |                Projeto               | Descrição                                                      |  Status  |
 | :----------------------------------: | -------------------------------------------------------------- | :------: |
@@ -63,13 +64,13 @@ Cada projeto representa mais um passo nessa jornada de aprendizado e evolução.
 |         Aplicações em Python         | Exercícios, automações e aplicações práticas.                  | Em breve |
 |      Desenvolvimento Full Stack      | Projetos completos envolvendo Front-end e Back-end.            | Em breve |
 
-</div>
-
 ---
 
 <div align="center">
 
-## ⋆｡°✩ Estatísticas ✩°｡⋆
+## ୨୧ Estatísticas ୨୧
+
+<br>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=ErikaArroio&show_icons=true&theme=transparent&hide_border=true&title_color=F4A6C1&icon_color=F4A6C1&text_color=C97B9D"/>
 
@@ -81,7 +82,7 @@ Cada projeto representa mais um passo nessa jornada de aprendizado e evolução.
 
 <div align="center">
 
-## ⋆｡°✩ Atualmente Estudando ✩°｡⋆
+## ୨୧ Atualmente Estudando ୨୧
 
 Python • HTML • CSS • JavaScript • Git • GitHub • APIs • Inteligência Artificial • Desenvolvimento Web
 
@@ -91,15 +92,21 @@ Python • HTML • CSS • JavaScript • Git • GitHub • APIs • Inteligê
 
 <div align="center">
 
-## ⋆｡°✩ Vamos nos conectar ✩°｡⋆
+## ୨୧ Vamos nos conectar ୨୧
+
+<br>
 
 <a href="https://github.com/ErikaArroio">
 <img src="https://img.shields.io/badge/GitHub-F8D7E8?style=for-the-badge&logo=github&logoColor=C97B9D"/>
 </a>
 
+  
+
 <a href="https://www.linkedin.com/in/erikaarroio/">
 <img src="https://img.shields.io/badge/LinkedIn-F8D7E8?style=for-the-badge&logo=linkedin&logoColor=C97B9D"/>
 </a>
+
+  
 
 <a href="https://www.instagram.com/erika.arroio">
 <img src="https://img.shields.io/badge/Instagram-F8D7E8?style=for-the-badge&logo=instagram&logoColor=C97B9D"/>
@@ -112,23 +119,14 @@ Python • HTML • CSS • JavaScript • Git • GitHub • APIs • Inteligê
 <div align="center">
 
 ```text
-⋆｡°✩ ───────────────────────────── ✩°｡⋆
+୨୧ ─────────────────────────────────────────────── ୨୧
 
-      Moda → Tecnologia → Futuro
+             Moda → Tecnologia → Futuro
 
       Criando experiências elegantes através do código.
 
-⋆｡°✩ ───────────────────────────── ✩°｡⋆
-```
-
-</div>
-
-
-```
-୨୧ ─────────────────────────────────────────────── ୨୧
-        From Fashion to Technology
-        Building elegant solutions through code.
 ୨୧ ─────────────────────────────────────────────── ୨୧
 ```
 
 </div>
+```
