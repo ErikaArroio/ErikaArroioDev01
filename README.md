@@ -1,49 +1,49 @@
-````markdown
 <div align="center">
 
-# Erika Arroio
+<h1>Erika Arroio</h1>
 
-### Desenvolvedora de Software • Inteligência Artificial • Desenvolvimento Web
+<h3>Desenvolvedora de Software • Inteligência Artificial • Desenvolvimento Web</h3>
 
 ```text
 ୨୧ ─────────────────────────────────────────────── ୨୧
-        Transformando criatividade em tecnologia
+          Bem-vindo(a) ao meu Portfólio no GitHub
 ୨୧ ─────────────────────────────────────────────── ୨୧
-````
+```
 
-*"Da moda para a tecnologia, criando soluções com criatividade e propósito."*
-
-</div>
-
----
-
-<div align="center">
-
-## ୨୧ Sobre Mim ୨୧
-
-<p>
-
-Olá! Meu nome é <strong>Erika Arroio</strong>.
-
-Minha trajetória profissional começou na <strong>área da Moda</strong>, onde desenvolvi habilidades como criatividade, atenção aos detalhes, organização e resolução de problemas.
-
-Movida pelo desejo de crescimento, inovação e novos desafios, decidi realizar minha transição de carreira para a <strong>Tecnologia</strong>, unindo minha criatividade ao pensamento lógico da programação.
-
-Atualmente estou construindo minha carreira como desenvolvedora, estudando continuamente e desenvolvendo projetos em <strong>Python</strong>, <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> e <strong>Inteligência Artificial</strong>.
-
-Cada projeto representa mais um passo nessa jornada de aprendizado e evolução.
-
-</p>
+*"A tecnologia é o lugar onde a criatividade encontra a inovação."*
 
 </div>
 
 ---
 
+# Sobre Mim
+
+Olá!
+
+Meu nome é **Erika Arroio** e atualmente estou construindo minha carreira na área de tecnologia.
+
+Minha trajetória profissional começou no **setor da moda**, um ambiente onde criatividade, atenção aos detalhes e resolução de problemas fazem parte do dia a dia.
+
+Movida pelo desejo de aprender continuamente, enfrentar novos desafios e criar soluções digitais que gerem impacto, decidi realizar uma transição de carreira para o desenvolvimento de software.
+
+Hoje dedico meu tempo aos estudos e ao desenvolvimento de projetos focados em:
+
+- Python
+- HTML
+- CSS
+- JavaScript
+- Inteligência Artificial
+- Desenvolvimento Web
+
+Cada novo projeto representa mais um passo nessa transformação, unindo a criatividade que desenvolvi na moda com o raciocínio lógico necessário para a programação.
+
+---
+
 <div align="center">
 
-## ୨୧ Tecnologias ୨୧
-
-<br>
+```text
+୨୧ ───────────── Tecnologias ───────────── ୨୧
+```
 
 <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode"/>
 
@@ -51,40 +51,51 @@ Cada projeto representa mais um passo nessa jornada de aprendizado e evolução.
 
 ---
 
-<div align="center">
+# Projetos Futuros
 
-## ୨୧ Projetos em Desenvolvimento ୨୧
+Esta seção é reservada para os projetos que representarão minha evolução profissional.
 
-</div>
+## Portfólio Pessoal
 
-|                Projeto               | Descrição                                                      |  Status  |
-| :----------------------------------: | -------------------------------------------------------------- | :------: |
-|           Portfólio Pessoal          | Site profissional para apresentar minha trajetória e projetos. | Em breve |
-| Projetos com Inteligência Artificial | Soluções utilizando IA para automação e produtividade.         | Em breve |
-|         Aplicações em Python         | Exercícios, automações e aplicações práticas.                  | Em breve |
-|      Desenvolvimento Full Stack      | Projetos completos envolvendo Front-end e Back-end.            | Em breve |
+Site moderno e responsivo desenvolvido para apresentar minha trajetória profissional.
+
+**Status:** Em breve
+
+---
+
+## Projetos com Inteligência Artificial
+
+Aplicações práticas utilizando IA para automatizar processos e solucionar problemas do mundo real.
+
+**Status:** Em breve
+
+---
+
+## Aplicações em Python
+
+Desenvolvimento de aplicações desktop, scripts de automação e desafios de lógica de programação.
+
+**Status:** Em breve
+
+---
+
+## Projetos Full Stack
+
+Aplicações completas integrando tecnologias de Front-end e Back-end.
+
+**Status:** Em breve
 
 ---
 
 <div align="center">
 
-## ୨୧ Estatísticas ୨୧
+```text
+୨୧ ───────────── Estatísticas do GitHub ───────────── ୨୧
+```
 
-<br>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true&title_color=F5A3C7&icon_color=F5A3C7&text_color=D17FA3"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ErikaArroio&show_icons=true&theme=transparent&hide_border=true&title_color=F4A6C1&icon_color=F4A6C1&text_color=C97B9D"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikaArroio&layout=compact&theme=transparent&hide_border=true&title_color=F4A6C1&text_color=C97B9D"/>
-
-</div>
-
----
-
-<div align="center">
-
-## ୨୧ Atualmente Estudando ୨୧
-
-Python • HTML • CSS • JavaScript • Git • GitHub • APIs • Inteligência Artificial • Desenvolvimento Web
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=true&title_color=F5A3C7&text_color=D17FA3"/>
 
 </div>
 
@@ -92,24 +103,42 @@ Python • HTML • CSS • JavaScript • Git • GitHub • APIs • Inteligê
 
 <div align="center">
 
-## ୨୧ Vamos nos conectar ୨୧
+```text
+୨୧ ───────────── Jornada de Aprendizado ───────────── ୨୧
+```
 
-<br>
+</div>
 
-<a href="https://github.com/ErikaArroio">
-<img src="https://img.shields.io/badge/GitHub-F8D7E8?style=for-the-badge&logo=github&logoColor=C97B9D"/>
+Atualmente estudando:
+
+- Lógica de Programação
+- Python
+- Programação Orientada a Objetos
+- HTML
+- CSS
+- JavaScript
+- Git e GitHub
+- APIs
+- Inteligência Artificial
+
+---
+
+<div align="center">
+
+```text
+୨୧ ───────────── Conecte-se Comigo ───────────── ୨୧
+```
+
+<a href="https://github.com/SEU_USUARIO">
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-  
-
-<a href="https://www.linkedin.com/in/erikaarroio/">
-<img src="https://img.shields.io/badge/LinkedIn-F8D7E8?style=for-the-badge&logo=linkedin&logoColor=C97B9D"/>
+<a href="https://linkedin.com/in/SEU_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-  
-
-<a href="https://www.instagram.com/erika.arroio">
-<img src="https://img.shields.io/badge/Instagram-F8D7E8?style=for-the-badge&logo=instagram&logoColor=C97B9D"/>
+<a href="https://instagram.com/SEU_INSTAGRAM">
+<img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
 </div>
@@ -120,6 +149,12 @@ Python • HTML • CSS • JavaScript • Git • GitHub • APIs • Inteligê
 
 ```text
 ୨୧ ─────────────────────────────────────────────── ୨୧
+      Da Moda para a Tecnologia
+      Construindo soluções elegantes através do código.
+୨୧ ─────────────────────────────────────────────── ୨୧
+```
+
+</div>
 
              Moda → Tecnologia → Futuro
 
