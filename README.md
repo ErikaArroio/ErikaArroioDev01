@@ -5,9 +5,9 @@
 ### Software Developer • Artificial Intelligence • Web Development
 
 ```
-୨୧ ─────────────────────────────────────────────── ୨୧
-           Welcome to my GitHub Portfolio
-୨୧ ─────────────────────────────────────────────── ୨୧
+                                 ୨୧ ─────────────────────────────────────────────── ୨୧
+                                            Welcome to my GitHub Portfolio
+                                 ୨୧ ─────────────────────────────────────────────── ୨୧
 ```
 
 *"Technology is where creativity meets innovation."*
