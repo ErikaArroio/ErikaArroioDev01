@@ -2,48 +2,45 @@
 
 # Erika Arroio
 
-### Software Developer • Artificial Intelligence • Web Development
+### Desenvolvedora de Software • Inteligência Artificial • Desenvolvimento Web
 
-```
-                                 ୨୧ ─────────────────────────────────────────────── ୨୧
-                                            Welcome to my GitHub Portfolio
-                                 ୨୧ ─────────────────────────────────────────────── ୨୧
+```text
+୨୧ ─────────────── ✦ ─────────────── ୨୧
+      Transformando criatividade em tecnologia
+୨୧ ─────────────── ✦ ─────────────── ୨୧
 ```
 
-*"Technology is where creativity meets innovation."*
+*"Da moda para a tecnologia, criando soluções com criatividade e propósito."*
 
 </div>
 
 ---
 
-# About Me
+<div align="center">
 
-Hello!
+## ⋆｡°✩ Sobre Mim ✩°｡⋆
 
-My name is **Erika Arroio** and I'm currently building my career in technology.
+</div>
 
-My professional journey began in the **fashion industry**, a field where creativity, attention to detail and problem-solving are essential every day.
+<p align="center">
 
-Driven by the desire for continuous growth, new challenges and the opportunity to create impactful digital solutions, I decided to make a career transition into software development.
+Olá! Meu nome é <strong>Erika Arroio</strong>.
 
-Today I dedicate my time to studying and developing projects focused on:
+Minha trajetória profissional começou na <strong>área da Moda</strong>, onde desenvolvi habilidades como criatividade, atenção aos detalhes, organização e resolução de problemas.
 
-* Python
-* HTML
-* CSS
-* JavaScript
-* Artificial Intelligence
-* Web Development
+Movida pelo desejo de crescimento, inovação e novos desafios, decidi realizar minha transição de carreira para a <strong>Tecnologia</strong>, unindo minha criatividade ao pensamento lógico da programação.
 
-Every new project represents another step in this transformation, combining the creativity I developed in fashion with the logical thinking required in programming.
+Atualmente estou construindo minha carreira como desenvolvedora, estudando continuamente e desenvolvendo projetos em <strong>Python</strong>, <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> e <strong>Inteligência Artificial</strong>.
+
+Cada projeto representa mais um passo nessa jornada de aprendizado e evolução.
+
+</p>
 
 ---
 
 <div align="center">
 
-```
-୨୧ ───────────── Technologies ───────────── ୨୧
-```
+## ⋆｡°✩ Tecnologias ✩°｡⋆
 
 <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode"/>
 
@@ -51,59 +48,20 @@ Every new project represents another step in this transformation, combining the 
 
 ---
 
-# Future Projects
+<div align="center">
 
-This section is reserved for the projects that will represent my professional evolution.
+## ⋆｡°✩ Projetos em Desenvolvimento ✩°｡⋆
 
-## Personal Portfolio
-
-Modern and responsive website developed to showcase my professional journey.
-
-Status
-
-Coming Soon
-
----
-
-## Artificial Intelligence Projects
-
-Practical applications using AI to automate processes and solve real-world problems.
-
-Status
-
-Coming Soon
-
----
-
-## Python Applications
-
-Development of desktop applications, automation scripts and programming logic challenges.
-
-Status
-
-Coming Soon
-
----
-
-## Full Stack Projects
-
-Complete applications integrating Front-end and Back-end technologies.
-
-Status
-
-Coming Soon
-
----
+</div>
 
 <div align="center">
 
-```
-୨୧ ───────────── GitHub Analytics ───────────── ୨୧
-```
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true&title_color=F5A3C7&icon_color=F5A3C7&text_color=D17FA3"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=true&title_color=F5A3C7&text_color=D17FA3"/>
+|                Projeto               | Descrição                                                      |  Status  |
+| :----------------------------------: | -------------------------------------------------------------- | :------: |
+|           Portfólio Pessoal          | Site profissional para apresentar minha trajetória e projetos. | Em breve |
+| Projetos com Inteligência Artificial | Soluções utilizando IA para automação e produtividade.         | Em breve |
+|         Aplicações em Python         | Exercícios, automações e aplicações práticas.                  | Em breve |
+|      Desenvolvimento Full Stack      | Projetos completos envolvendo Front-end e Back-end.            | Em breve |
 
 </div>
 
@@ -111,49 +69,60 @@ Coming Soon
 
 <div align="center">
 
-```
-୨୧ ───────────── Learning Journey ───────────── ୨୧
-```
+## ⋆｡°✩ Estatísticas ✩°｡⋆
 
-</div>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ErikaArroio&show_icons=true&theme=transparent&hide_border=true&title_color=F4A6C1&icon_color=F4A6C1&text_color=C97B9D"/>
 
-Currently studying:
-
-* Programming Logic
-* Python
-* Object-Oriented Programming
-* HTML
-* CSS
-* JavaScript
-* Git & GitHub
-* APIs
-* Artificial Intelligence
-
----
-
-<div align="center">
-
-```
-୨୧ ───────────── Connect With Me ───────────── ୨୧
-```
-
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://linkedin.com/in/SEU_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://instagram.com/SEU_INSTAGRAM">
-<img src="https://skillicons.dev/icons?i=instagram"/>
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikaArroio&layout=compact&theme=transparent&hide_border=true&title_color=F4A6C1&text_color=C97B9D"/>
 
 </div>
 
 ---
 
 <div align="center">
+
+## ⋆｡°✩ Atualmente Estudando ✩°｡⋆
+
+Python • HTML • CSS • JavaScript • Git • GitHub • APIs • Inteligência Artificial • Desenvolvimento Web
+
+</div>
+
+---
+
+<div align="center">
+
+## ⋆｡°✩ Vamos nos conectar ✩°｡⋆
+
+<a href="https://github.com/ErikaArroio">
+<img src="https://img.shields.io/badge/GitHub-F8D7E8?style=for-the-badge&logo=github&logoColor=C97B9D"/>
+</a>
+
+<a href="https://www.linkedin.com/in/erikaarroio/">
+<img src="https://img.shields.io/badge/LinkedIn-F8D7E8?style=for-the-badge&logo=linkedin&logoColor=C97B9D"/>
+</a>
+
+<a href="https://www.instagram.com/erika.arroio">
+<img src="https://img.shields.io/badge/Instagram-F8D7E8?style=for-the-badge&logo=instagram&logoColor=C97B9D"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+⋆｡°✩ ───────────────────────────── ✩°｡⋆
+
+      Moda → Tecnologia → Futuro
+
+      Criando experiências elegantes através do código.
+
+⋆｡°✩ ───────────────────────────── ✩°｡⋆
+```
+
+</div>
+
 
 ```
 ୨୧ ─────────────────────────────────────────────── ୨୧
